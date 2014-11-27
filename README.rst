@@ -33,12 +33,12 @@ Font Families
 Troubloshoot
 ------------
 
-- .. _Install FontForge on Mac OS X: http://fontforge.github.io/en-US/downloads/mac/
-- .. _Powerline font patcher: https://github.com/Lokaltog/vim-powerline/tree/develop/fontpatcher#font-patching-guide
-- .. _Powerline Patched Fonts on OXS: http://superuser.com/questions/762345/powerline-patched-fonts-on-osx-10-9-3-iterm2-chrome
+.. _Install FontForge on Mac OS X: http://fontforge.github.io/en-US/downloads/mac/
+.. _Powerline font patcher: https://github.com/Lokaltog/vim-powerline/tree/develop/fontpatcher#font-patching-guide
+.. _Powerline Patched Fonts on OXS: http://superuser.com/questions/762345/powerline-patched-fonts-on-osx-10-9-3-iterm2-chrome
 
 References
 -----------
 
-- .. _Getting Spiffy With Powerline: http://computers.tutsplus.com/tutorials/getting-spiffy-with-powerline--cms-20740
-- .. _Powerline: https://github.com/Lokaltog/powerline
+.. _Getting Spiffy With Powerline: http://computers.tutsplus.com/tutorials/getting-spiffy-with-powerline--cms-20740
+.. _Powerline: https://github.com/Lokaltog/powerline
