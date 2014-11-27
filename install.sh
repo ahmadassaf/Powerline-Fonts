@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# https://coderwall.com/p/zvxkcg/fix-for-brew-installing-powerline-on-mac-os-x-10-9
+echo "Installing Powerline"
+pip install git+git://github.com/Lokaltog/powerline
+
 # Set source and target directories
 powerline_fonts_dir=$( cd "$( dirname "$0" )" && pwd )
 
@@ -22,4 +26,4 @@ if [[ -n `which fc-cache` ]]; then
   fc-cache -f $font_dir
 fi
 
-echo "All Powerline fonts installed to $font_dir"
+echo -e "All Powerline fonts installed to $font_dir .. now please change the font in the terminals need to: Inconsolata for ${red}Powerline${NC}"
